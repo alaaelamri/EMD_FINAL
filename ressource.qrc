@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ressource/background.jpg</file>
+        <file>Ressource/Background_color.png</file>
+        <file>Ressource/button_clicked.png</file>
+        <file>Ressource/button_init.png</file>
+        <file>Ressource/cancel.png</file>
+        <file>Ressource/checked.png</file>
+        <file>Ressource/dashboard.jpg</file>
+        <file>Ressource/icon_add.png</file>
+        <file>Ressource/icon_edit.png</file>
+        <file>Ressource/job.png</file>
+        <file>Ressource/more.png</file>
+        <file>Ressource/pencil.png</file>
+        <file>Ressource/prescription.png</file>
+        <file>Ressource/blue.jpeg</file>
+        <file>Ressource/Asset 2.png</file>
+        <file>Ressource/Asset 3.png</file>
+        <file>Ressource/Asset 4.png</file>
+        <file>Ressource/pill.png</file>
+    </qresource>
+</RCC>
